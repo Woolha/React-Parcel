@@ -1,0 +1,32 @@
+body {
+  background-color: #efefef;
+  text-align: center;
+  height: 100vh;
+
+  .navbar {
+    background: #009696;
+    color: #ffffff;
+    height: 30px;
+
+    a {
+      color: #ffffff;
+    }
+  }
+
+  #app {
+    margin-top: 50px;
+    font-size: 20px;
+
+    input {
+      -webkit-appearance: none;
+      height: 30px;
+      background-color:#FFF;
+      color:#666;
+      font-weight:bold;
+      border: solid #666 1px;
+      font-size: 14px;
+      padding: 10px;
+      margin: 20px;
+    }
+  }
+}
